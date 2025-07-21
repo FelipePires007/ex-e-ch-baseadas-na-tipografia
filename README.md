@@ -66,7 +66,7 @@ Aprendi que as unidades `ex` e `ch` são importantes para tornar o design mais t
 ## 7. Slides da Apresentação
 
 📎 Link para os slides:  
-[https://www.canva.com/design/DAGtv7Dp7tg/jVT9nh_ujGQTrQYGQgjlTQ/edit?utm_content=DAGtv7Dp7tg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Slide unidade de medida EX e CH no CSS](https://www.canva.com/design/DAGtv7Dp7tg/jVT9nh_ujGQTrQYGQgjlTQ/edit?utm_content=DAGtv7Dp7tg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
