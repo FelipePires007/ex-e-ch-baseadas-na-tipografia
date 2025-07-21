@@ -76,4 +76,6 @@ Aprendi que as unidades `ex` e `ch` são importantes para tornar o design mais t
 - [x] Código funcional incluído  
 - [x] Fontes listadas  
 - [x] Slides prontos  
-- [x] Arquivo no GitHub  
+- [x] Arquivo no GitHub
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
