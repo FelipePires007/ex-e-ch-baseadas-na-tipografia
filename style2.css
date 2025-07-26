@@ -1,4 +1,4 @@
-body {
+/* body {
     font-family: Arial, sans-serif;
     display: flex;
     flex-direction: column;
@@ -36,10 +36,58 @@ input[type="range"] {
 
 .demo input {
     font-size: 20px;
-    /* tamanho fixo da fonte */
     padding: 5px;
 }
 
 h1 {
     text-align: center;
+} */ 
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #4facfe, #00f2fe);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+.container {
+    color: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    width: 320px;
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin: 15px 0 5px;
+}
+
+select,
+input[type="range"] {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.input-box {
+    margin-top: 20px;
+}
+
+.testInput {
+    font-size: 2ex;
+    height: 3ex;
+    width: 5ch;
+    line-height: 3ex;
+    padding: 5px;
+    border: none;
+    border-radius: 8px;
+    text-align: center;
+} 
+
+
+
+

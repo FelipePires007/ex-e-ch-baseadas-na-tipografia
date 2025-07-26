@@ -13,6 +13,9 @@ function updateStyles() {
     testInput.style.fontFamily = font;
     testInput.style.lineHeight = lineHeight + 'ex';
     testInput.style.width = inputWidth + 'ch';
+    testInput.style.lineHeight = lineHeight + 'ex';
+    testInput.style.height = lineHeight + 'ex'; 
+
 
     lhValueLabel.textContent = lineHeight;
     chValueLabel.textContent = inputWidth;
@@ -22,5 +25,6 @@ fontSelect.addEventListener('change', updateStyles);
 lineHeightInput.addEventListener('input', updateStyles);
 inputWidthInput.addEventListener('input', updateStyles);
 
-updateStyles(); // aplica valores iniciais
+updateStyles();
+
 
