@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    gap: 1rem;
+    background: radial-gradient(circle, #6ab7f5, #fff);
+    margin: 0;
+    padding: 20px;
+}
+
+.controls {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 300px;
+    width: 100%;
+}
+
+label {
+    font-weight: bold;
+}
+
+input[type="range"] {
+    width: 100%;
+}
+
+.demo {
+    padding: 10px;
+    border: 2px dashed #888;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.demo input {
+    font-size: 20px;
+    /* tamanho fixo da fonte */
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+}

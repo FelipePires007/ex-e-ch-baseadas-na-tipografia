@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="./script1.js" defer></script>
+    <link rel="stylesheet" href="./style2.css">
+</head>
+
+<body>
+
+    <h1>Teste interativo EX e CH</h1>
+
+    <div class="controls">
+        <label for="fontSelect">Fonte:</label>
+        <select id="fontSelect">
+            <option value="Arial, sans-serif">Arial</option>
+            <option value="'Courier New', monospace">Courier New</option>
+            <option value="'Times New Roman', serif">Times New Roman</option>
+            <option value="'Lucida Console', monospace">Lucida Console</option>
+            <option value="'Comic Sans MS', cursive">Comic Sans</option>
+        </select>
+
+        <label for="lineHeight">Tamanho (<code>ex</code>): <span id="lhValue">3</span>ex</label>
+        <input type="range" id="lineHeight" min="1" max="10" step="0.5" value="3" />
+
+        <label for="inputWidth">Largura(<code>ch</code>): <span id="chValue">20</span>ch</label>
+        <input type="range" id="inputWidth" min="5" max="40" step="1" value="20" />
+    </div>
+
+    <div class="demo">
+        <input id="testInput" type="text" placeholder="Digite aqui..." />
+    </div>
+
+</body>
+
+</html>
