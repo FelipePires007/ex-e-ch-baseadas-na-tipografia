@@ -38,7 +38,6 @@ As unidades `ex` e `ch` são medidas tipográficas relativas utilizadas em CSS. 
 
 ```css
 p {
-  font-size: 16ex;
   line-height: 2ex;  /* Altura baseada na letra "x" da fonte */
 }
 
