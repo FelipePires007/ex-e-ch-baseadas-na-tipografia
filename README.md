@@ -3,7 +3,7 @@
 # Estudo de Caso – Unidades `ex` e `ch` no CSS
 
 > **Aluno(a):** Felipe Pires  
-> **Turma:** Desenvolvedor Front end
+> **Turma:** Desenvolvedor Front end      
 > **Data:** 28/07/2025
 
 ---
